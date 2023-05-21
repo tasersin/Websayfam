@@ -39,12 +39,12 @@ body{
     list-style: none;
 }
 .box li a{
-    color: white;
+    color: rgb(12, 8, 8);
     font-size: 40px;
     transition: all ease-in-out;
 }
 .box li a:hover{
-    color:  #b9b9b9;
+    color:  #2e2c2c;
 }
 .box footer{
     text-align: center;
