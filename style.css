@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(İmg/background.jpg);
+    background-image: url(img/background.jpg);
     background-size: cover;
 
 .box{
@@ -39,12 +39,12 @@ body{
     list-style: none;
 }
 .box li a{
-    color: rgb(12, 8, 8);
+    color: white;
     font-size: 40px;
     transition: all ease-in-out;
 }
 .box li a:hover{
-    color:  #2e2c2c;
+    color:  #b9b9b9;
 }
 .box footer{
     text-align: center;
